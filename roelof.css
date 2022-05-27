@@ -1,0 +1,63 @@
+:root{
+ --red: hsl(0, 78%, 62%);
+ --cyan: hsl(180, 62%, 55%);
+ --orange: hsl(34, 97%, 64%);
+ --blue: hsl(212, 86%, 64%);
+ --dark_blue: hsl(234, 12%, 34%);
+ --grayish_blue: hsl(229, 6%, 66%);
+ --gray: hsl(0, 0%, 98%)
+}
+
+*{
+    margin: 0;
+    padding: 0; 
+}
+
+body{
+    font-family: 'Poppins';
+    font-size: 15px;
+    display: flex; 
+    flex-direction: column;
+    background-color:var(--gray);
+    padding: 30px;
+    align-items: center;
+    justify-content: center;
+}
+
+
+h1{
+
+}
+
+h2{
+
+}
+
+p{
+
+}
+
+.container{
+
+}
+
+.cards{
+
+}
+
+.supervisor{
+
+}
+
+.team_builder{
+
+}
+
+.karma{
+
+}
+
+.calculaor{
+
+}
+
